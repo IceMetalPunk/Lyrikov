@@ -1,3 +1,4 @@
+/* TODO: Better lyrics API that gives *ALL* lyrics, and more structure analysis (chorus/verse, etc.) */
 const Markov = require('markovchain');
 const readline = require('readline');
 const mx = require('musixmatchlyrics');
