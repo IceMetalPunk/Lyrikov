@@ -1,0 +1,22 @@
+{
+  "name": "lyrikov",
+  "version": "1.0.0",
+  "description": "Writes song lyrics based on the style of a given artist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lyrics",
+    "song",
+    "writing",
+    "markov",
+    "chain"
+  ],
+  "author": "IceMetalPunk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "musixmatchlyrics": "0.0.1"
+  }
+}
